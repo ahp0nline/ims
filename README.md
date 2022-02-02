@@ -1,1 +1,1 @@
-# ims-supervisor
+# ims
